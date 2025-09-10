@@ -1,0 +1,10 @@
+sway
+wmenu
+xdg-desktop-portal-gtk
+xdg-desktop-portal-wlr
+yazi
+git
+lazygit
+stow
+kitty
+otf-hermit-nerd
