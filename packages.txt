@@ -9,3 +9,4 @@ lazygit
 stow
 kitty
 otf-hermit-nerd
+ttf-martian-mono-nerd
