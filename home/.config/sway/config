@@ -6,8 +6,9 @@
 # \_| \_|_\_| \_/  |___/\__|\__,_|\__,_|\___|_| |_|\__\___/
 #
 
-# Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
+# Default wallpaper
+# https://github.com/D3Ext/aesthetic-wallpapers/blob/main/images/arch-nord-dark.png
+output * bg "$HOME/Pictures/wallpaper/arch-nord-dark.png" fill
 
 #
 # Status Bar:
